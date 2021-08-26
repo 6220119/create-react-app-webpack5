@@ -1,0 +1,11 @@
+.vscode
+public/*
+coverage
+node_modules
+build
+
+# patched files, should not touch to easier comparing changes against the original
+config/*
+scripts/*
+src/react-app-env.d.ts
+postcss.config.js
